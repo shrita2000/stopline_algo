@@ -1,0 +1,8 @@
+prefix=/home/j0986329/shrita_test/stopline_algo/install
+
+Name: stopline_test
+Description: Description of stopline_test
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs aux_lib

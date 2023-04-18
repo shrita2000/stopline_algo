@@ -1,0 +1,8 @@
+prefix=/home/j0986329/shrita_test/stopline_algo/devel
+
+Name: aux_lib
+Description: Description of aux_lib
+Version: 0.0.0
+Cflags: -I/home/j0986329/shrita_test/stopline_algo/src/aux_lib/include
+Libs: -L${prefix}/lib -laux_lib -lplot_lib
+Requires: std_msgs traffic_msgs roscpp prediction_ct_vel

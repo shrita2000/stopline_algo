@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>aux_lib</name>
+  <version>0.0.0</version>
+  <description>Auxiliar libraries</description>
+  <maintainer email="amiranda@honda-ri.com">Alex Miranda</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>traffic_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>prediction_ct_vel</build_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>traffic_msgs</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+  <exec_depend>prediction_ct_vel</exec_depend>
+  <test_depend>rosunit</test_depend>
+  <export>
+  </export>
+</package>

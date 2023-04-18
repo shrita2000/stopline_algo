@@ -1,0 +1,2 @@
+aux_lib:stopline_test
+-DCATKIN_DEVEL_PREFIX=/home/j0986329/shrita_test/stopline_algo/devel -DCMAKE_INSTALL_PREFIX=/home/j0986329/shrita_test/stopline_algo/install -G Unix Makefiles
